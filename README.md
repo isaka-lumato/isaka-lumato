@@ -1,16 +1,32 @@
-### Hi there 👋
 
-<!--
-**isaka-lumato/isaka-lumato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 class="center">Hi 👋, I am Isaac William Lumato  ✨Lumato✨</h1>
 
-Here are some ideas to get you started:
+### ABOUT ME
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently a full-time student learning full-stack software development @microverseinc
+- 👯 Looking for opportunities
+- 💬 Ask me about Code, Football, Gaming
+- 💆🏿‍♀️ Mantra: one Step at a time!
+- 😄 Pronouns: He/Him
+
+
+```javascript
+const IsaacLumato = async(offer) => {
+  if(offer) {
+    await Community.celebration()
+  }
+  lookingFor: "Back-end developer" || "Full-stack web developer",
+  pronouns: ["He", "him"],
+  code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap,
+  askMeAbout: [Code, Football, Gaming],
+  challenge: "I am learning to learn. Honing my React|Redux Skills",
+  funFacts: ['I am a full-time FullStack Student at Microverse', 
+  'my entire family and community is waiting to Celebrate that offer']
+  await offer.remoteJob().offer.Relocation().offer.local().offer.conversation()
+}
+```
+<!-- <h3 align="center">GitHub Statistics:</h3>
+isaka-lumato
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=isaka-lumato&show_icons=true&locale=en" alt="Kalunge" /></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=isaka-lumato&theme=radical" alt="isaka-lumato" /></p> -->
