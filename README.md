@@ -25,8 +25,11 @@ const IsaacLumato = async(offer) => {
   await offer.remoteJob().offer.Relocation().offer.local().offer.conversation()
 }
 ```
-<!-- <h3 align="center">GitHub Statistics:</h3>
-isaka-lumato
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=isaka-lumato&show_icons=true&locale=en" alt="Kalunge" /></p>
+ <h3 align="center">GitHub Statistics:</h3>
+<h1 align="center">isaka-lumato</h1>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=isaka-lumato&show_icons=true&locale=en" alt="isaka-lumato
+" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=isaka-lumato&theme=radical" alt="isaka-lumato" /></p> -->
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=isaka-lumato&theme=radical" alt="isaka-lumato" /></p> 
+
+
